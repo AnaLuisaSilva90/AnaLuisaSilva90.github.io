@@ -1,0 +1,20 @@
+---
+layout: post
+title: About me...
+date: 2017-09-12 13:32:20 +0300
+description:
+img: porto-main.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [AboutMe, Who Am I]
+---
+I had the pleasure of studying medicine in one of the most beautiful cities in the world — Porto! I hold a Bachelor and Master's Degree in Medicine from ICBAS - School of Medicine and Biomedical Science, graduating in 2014.
+
+My career began in clinical practice as a **General Resident** at Tâmega and Sousa Hospital Center, before transitioning to a long tenure as a **Family Medicine Physician** at ARS Norte in Portugal — where I spent six years caring for patients across a wide spectrum of conditions, from preventive medicine and mental health to cardiovascular diseases and pregnancy surveillance. During that time, I also trained medical students, led clinical sessions, and pursued scientific research and medical writing.
+
+Alongside my clinical practice, I worked as a **Family Medicine Physician at Knokcare**, providing telemedicine and digital health services across Portugal and The Netherlands, and as a **Medical Assistant at Studentengezondheidszorg** in The Netherlands, where I focused on patient screening, counseling, and acute care.
+
+Driven by a growing interest in clinical research and health data, I pursued additional certifications: a **Clinical Investigator Certification Level 2** from NOVA Medical School (2022) and a **Post-Graduate Degree in Health Data Science** from ESTeSL - Lisbon School of Health Technology (2022–2023), where I was among the 4 best students.
+
+My path into clinical research began at the **Spaulding Neuromodulation Center, Harvard Medical School**, first as a Research Fellow (2023) conducting literature reviews and data analysis, and then as a Clinical Research Coordinator (2024). I subsequently joined **Panoramic Health** in California, managing multiple clinical trials end-to-end. Since March 2025, I am a **Clinical Research Coordinator 2 at Stanford School of Medicine (PACCM)**, where I lead data management, oversee subject recruitment, and ensure regulatory compliance across research projects.
+
+Outside of work, I am passionate about volunteering — I've contributed to food redistribution at Re-Food and managed volunteer projects at VO.U. - University Volunteer Association!

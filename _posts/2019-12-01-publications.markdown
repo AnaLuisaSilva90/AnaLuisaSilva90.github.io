@@ -1,163 +1,171 @@
 ---
 layout: post
-title: Publications
-date: 2021-03-12 00:00:00 +0300
-description: 17 peer-reviewed publications in top robotics and AI venues (RA-L, ICRA, CoRL, IEEE T-ITS).
+title: Publications & Scientific Work
+date: 2019-12-01 00:00:00 +0300
+description: Publications in clinical medicine, pain research, and family medicine.
 img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Publications] # add tag
+tags: [Publications, Research] # add tag
 ---
 
-Full list available on [Google Scholar](https://scholar.google.com/citations?user=29JtGS4AAAAJ).
-
 ---
 
-<img style="float: left; margin-right: 20px;" src="/assets/img/go_mpc.gif">
+### The Silent Cognitive Burden of Chronic Pain: Protocol for an AI-Enhanced Living Dose–Response Bayesian Meta-Analysis
 
-### Where to Go Next: Learning a Subgoal Recommendation Policy for Navigation Among Pedestrians
-**Bruno Brito**, Michael Everett, Jonathan P. How and Javier Alonso-Mora
+Kevin Pacheco-Barrios, Rafaela Machado Filardi, Edward Yoon, Luis Fernando Gonzalez-Gonzalez, Joao Victor Ribeiro, Joao Pedro Perin, Paulo S de Melo, Marianna Leite, **Ana Silva**, Alba Navarro-Flores
 
-**IEEE Robotics and Automation Letters (RA-L) + ICRA 2021**
+**Journal of Clinical Medicine**, October 2025
 
-<div style="text-align: justify">We introduce Goal Oriented Model Predictive Control (GO-MPC), which enhances state-of-the-art online optimization-based planners with a learned global guidance policy.</div>
-
-<br>
-Paper: <a href="https://arxiv.org/pdf/2102.13073.pdf">![Paper]({{site.baseurl}}/assets/img/paper.png)</a>
-Video: <a href="https://www.youtube.com/watch?v=sZBbWMnwle8">![Video]({{site.baseurl}}/assets/img/youtube_icon.png)</a>
-Code: <a href="https://github.com/tud-amr/go-mpc">![Code]({{site.baseurl}}/assets/img/GitHub-Mark-32px.png)</a>
+<div style="text-align: justify">A protocol paper presenting an innovative AI-enhanced living meta-analysis framework applying Bayesian dose–response methods to investigate the cognitive burden of chronic pain.</div>
 
 <br style="clear:both;" />
 
 ---
 
-### Learning Interaction-aware Guidance Policies for Motion Planning in Dense Traffic Scenarios
-**Bruno Brito**, Achin Agarwal and Javier Alonso-Mora
+### Theta-band brain oscillatory patterns in chronic pain patients: A systematic review and meta-analysis
 
-**IEEE Transactions on Intelligent Transportation Systems**
+**Ana Silva** et al.
 
-<div style="text-align: justify">We present an approach for learning interaction-aware guidance policies that enable safe and efficient motion planning in complex, dense traffic scenarios.</div>
+*Submitted for publication*
 
-<br>
-Paper: <a href="https://ieeexplore.ieee.org/document/9765821">![Paper]({{site.baseurl}}/assets/img/paper.png)</a>
+<div style="text-align: justify">A systematic review and meta-analysis examining theta-band oscillatory patterns in the brains of chronic pain patients, contributing to the neurophysiological understanding of chronic pain.</div>
 
 <br style="clear:both;" />
 
 ---
 
-<img style="float: left; margin-right: 20px;" src="/assets/img/method_4.png">
+### Muscle pain in the elderly: two cases of polymyalgia rheumatica
 
-### Scenario-Based Trajectory Optimization in Uncertain Dynamic Environments
-Oscar de Groot, **Bruno Brito**, Laura Ferranti, Dariu Gavrila and Javier Alonso-Mora
+**Ana Silva**
 
-**IEEE Robotics and Automation Letters (RA-L) + ICRA 2021**
+**Medical Journal MGF & Ciência**, December 2020
 
-<div style="text-align: justify">A novel probabilistic trajectory-optimization framework for motion planning in uncertain dynamic environments.</div>
-
-<br>
-Paper: <a href="https://ieeexplore.ieee.org/document/9387082">![Paper]({{site.baseurl}}/assets/img/paper.png)</a>
-Video: <a href="https://www.youtube.com/watch?v=Hs2UR5f7PJM">![Video]({{site.baseurl}}/assets/img/youtube_icon.png)</a>
+<div style="text-align: justify">A clinical case report describing two cases of polymyalgia rheumatica in elderly patients, highlighting diagnostic and management considerations in primary care.</div>
 
 <br style="clear:both;" />
 
 ---
 
-<img style="float: left; margin-right: 20px;" src="/assets/img/method_overview.png">
+### The importance of social determinants and health literacy
 
-### Learning Interaction-Aware Trajectory Predictions for Decentralized Multi-Robot Motion Planning in Dynamic Environments
-Hai Zhu, Francisco Martinez Claramunt, **Bruno Brito** and Javier Alonso-Mora
+**Ana Silva**
 
-**IEEE Robotics and Automation Letters (RA-L) + ICRA 2021**
+**Jornal Médico**, January 2020 *(Published online)*
 
-<div style="text-align: justify">A data-driven decentralized trajectory optimization approach for multi-robot motion planning in dynamic environments.</div>
-
-<br>
-Paper: <a href="https://arxiv.org/abs/2102.05382">![Paper]({{site.baseurl}}/assets/img/paper.png)</a>
-Video: <a href="https://www.youtube.com/watch?v=i8HRGeOmcH4">![Video]({{site.baseurl}}/assets/img/youtube_icon.png)</a>
-Code: <a href="https://github.com/tud-amr/mrca-mav">![Code]({{site.baseurl}}/assets/img/GitHub-Mark-32px.png)</a>
+<div style="text-align: justify">An article discussing the critical role of social determinants of health and health literacy in patient outcomes and healthcare delivery.</div>
 
 <br style="clear:both;" />
 
 ---
 
-<img style="float: left; margin-right: 20px;" src="/assets/img/real2.png">
+### Prescription of Pneumococcal Vaccine to Diabetics in a USF: Evaluation Study and Continuous Quality Improvement
 
-### Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians
-**Bruno Brito**, Hai Zhu, Wei Pan and Javier Alonso-Mora
+**Ana Silva**
 
-**Conference on Robot Learning (CoRL) 2020**
+**II Jornadas USF Freamunde**, October 2019 — *Poster Presentation*
 
-<div style="text-align: justify">A variational learning approach for interaction-aware and multi-modal trajectory prediction based on deep generative neural networks.</div>
+**Award: 1st Award, II Jornadas USF Freamunde**
 
-<br>
-Paper: <a href="https://arxiv.org/pdf/2010.09056.pdf">![Paper]({{site.baseurl}}/assets/img/paper.png)</a>
-Video: <a href="https://www.youtube.com/watch?v=tBr5v7TXyG0">![Video]({{site.baseurl}}/assets/img/youtube_icon.png)</a>
-Code: <a href="https://github.com/tud-amr/social_vrnn">![Code]({{site.baseurl}}/assets/img/GitHub-Mark-32px.png)</a>
+<div style="text-align: justify">An evaluation study assessing pneumococcal vaccine prescription practices in diabetic patients at a primary care unit, with recommendations for continuous quality improvement.</div>
 
 <br style="clear:both;" />
 
 ---
 
-<img style="float: left; margin-right: 20px;" src="/assets/img/lmpcc.png">
+### The role of oral magnesium in pregnancy cramps: an evidence-based review
 
-### Model Predictive Contouring Control for Collision Avoidance in Unstructured Dynamic Environments
-**Bruno Brito**, Boaz Floor, Laura Ferranti and Javier Alonso-Mora
+**Ana Silva**
 
-**IEEE Robotics and Automation Letters (RA-L) + IROS 2019**
+**Medical Journal AIMGF Magazine** *(Accepted for publication)*
 
-<div style="text-align: justify">A local planning approach based on Model Predictive Contouring Control (MPCC) for safe navigation of a mobile robot in dynamic, unstructured environments.</div>
+**Award: Honorable Mention, GEMMeeting, September 2019**
 
-<br>
-Paper: <a href="https://ieeexplore.ieee.org/document/8768044">![Paper]({{site.baseurl}}/assets/img/paper.png)</a>
-Video: <a href="https://youtu.be/2ulhqQIXFqQ">![Video]({{site.baseurl}}/assets/img/youtube_icon.png)</a>
-Code: <a href="https://github.com/tud-cor/amr-lmpcc">![Code]({{site.baseurl}}/assets/img/GitHub-Mark-32px.png)</a>
+<div style="text-align: justify">An evidence-based review evaluating the efficacy of oral magnesium supplementation for the management of pregnancy-related muscle cramps.</div>
 
 <br style="clear:both;" />
 
 ---
 
-<img style="float: left; margin-right: 20px;" src="/assets/img/iv_2019.png">
+### Seborrheic Dermatitis
 
-### SafeVRU: A Research Platform for the Interaction of Self-Driving Vehicles with Vulnerable Road Users
-Laura Ferranti, **Bruno Brito**, Dariu Gavrila and Javier Alonso-Mora
+**Ana Silva**
 
-**IEEE Intelligent Vehicles Symposium (IV) 2019**
+**METIS Platform**, September 2019 *(Published online)*
 
-<div style="text-align: justify">A research platform for studying the interaction of self-driving vehicles with Vulnerable Road Users (pedestrians and cyclists).</div>
-
-<br>
-Paper: <a href="https://ieeexplore.ieee.org/document/8813899">![Paper]({{site.baseurl}}/assets/img/paper.png)</a>
-Video: <a href="https://youtu.be/InAEqTGyEA">![Video]({{site.baseurl}}/assets/img/youtube_icon.png)</a>
+<div style="text-align: justify">A clinical reference article on seborrheic dermatitis for the METIS medical knowledge platform.</div>
 
 <br style="clear:both;" />
 
 ---
 
-<img style="float: left; margin-right: 20px;" src="/assets/img/order_picking.png">
+### Use of Melatonin in Migraine: What is the evidence?
 
-### Towards Automated Order Picking Robots for Warehouses and Retail
-Richard Bormann, **Bruno Brito**, Jochen Lindermayr, Marco Omainska and Mayank Patel
+**Ana Silva**
 
-**International Conference on Computer Vision Systems 2019**
+**III Jornadas Camilo Castelo Branco**, September 2019 — *Poster Presentation*
 
-<div style="text-align: justify">A mobile order picking robot for retail store or warehouse order fulfillment. I was the main responsible for the motion planning module.</div>
-
-<br>
-Video: <a href="https://youtu.be/PkHSWuP1fpY">![Video]({{site.baseurl}}/assets/img/youtube_icon.png)</a>
+<div style="text-align: justify">A poster reviewing the current evidence for the use of melatonin in migraine prevention and treatment.</div>
 
 <br style="clear:both;" />
 
 ---
 
-<img style="float: left; margin-right: 20px;" src="/assets/img/gstomp.png">
+### My daughter seems to be in the moon — a case of Absence Crisis
 
-### Guided Stochastic Optimization for Motion Planning
-Richard Bormann, **Bruno Brito** et al.
+**Ana Silva**
 
-**Frontiers in Robotics and AI**
+**VII Jornadas Multidisciplinares do Aces Baixo Tâmega**, June 2019 — *Oral Communication*
 
-<div style="text-align: justify">A guided stochastic optimization approach for motion planning in complex environments.</div>
+<div style="text-align: justify">An oral case presentation describing a pediatric case of absence epilepsy, emphasizing clinical recognition and interdisciplinary management.</div>
 
-<br>
-Video: <a href="https://youtu.be/cQAUObVFzeU">![Video]({{site.baseurl}}/assets/img/youtube_icon.png)</a>
+<br style="clear:both;" />
+
+---
+
+### Obsessive compulsive disorder in adolescence — a family assessment
+
+**Ana Silva**
+
+**VII Jornadas Multidisciplinares do Aces Baixo Tâmega**, June 2019 — *Oral Communication*
+
+**Award: 3rd Award, VII Jornadas Multidisciplinares do Aces Baixo Tâmega**
+
+<div style="text-align: justify">A family-centered case presentation on obsessive-compulsive disorder in an adolescent patient, exploring psychosocial dimensions and treatment approaches.</div>
+
+<br style="clear:both;" />
+
+---
+
+### Suspected Sjogren's Syndrome — the importance of a systemic and longitudinal view
+
+**Ana Silva**
+
+**Jornadas Médicas Maia-Valongo**, April 2019 — *Oral Communication*
+
+<div style="text-align: justify">A case report highlighting the diagnostic challenges of Sjögren's Syndrome and the importance of a systemic and longitudinal clinical approach in primary care.</div>
+
+<br style="clear:both;" />
+
+---
+
+### Galactorrhea, how to manage? — The approach in primary health care
+
+**Ana Silva**
+
+**23rd WONCA Europe Conference**, May 2018 — *Poster Presentation*
+
+<div style="text-align: justify">A poster presented at the European General Practice conference outlining a primary care approach to the investigation and management of galactorrhea.</div>
+
+<br style="clear:both;" />
+
+---
+
+### Acromegaly — A Case Report
+
+**Ana Silva**
+
+**Medical Academy**, June 2017 — *Poster Presentation*
+
+<div style="text-align: justify">A poster case report on acromegaly, reviewing clinical features, diagnosis, and management strategies.</div>
 
 <br style="clear:both;" />
