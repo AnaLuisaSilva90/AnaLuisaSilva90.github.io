@@ -1,24 +1,23 @@
 title: Hello, world! I'm Bruno Brito
 description: > # this means to ignore newlines until "baseurl:"
-  My research is focused on data-driven motion planning techniques for autonomous navigation among
-  humans and other robots. More specifically, I have been developing autonomous navigation algorithms
-  combining optimization-based and learning-based techniques (e.g., Model Predictive Control and Deep
-  Reinforcement Learning).
+  Senior ML Engineer at NVIDIA building end-to-end ML motion planners for autonomous vehicles.
+  PhD in Cognitive Robotics from TU Delft. 10+ years of experience spanning autonomous driving,
+  motion planning, and large-scale machine learning.
 permalink: ':title/'
 domain: bbrito.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "https://bbrito.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: "/"     # place folder name if the site is served in a subfolder
+baseurl: ""     # place folder name if the site is served in a subfolder
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Bruno Brito # add your name
 author-img: bruno_brito.jpg # add your photo
-about-author: I am a PhD Candidate at TU Delft in the Cognitive Robotics (CoR) department. Always hungry to keep learning. # add description
+about-author: Senior ML Engineer at NVIDIA, building end-to-end ML planners for autonomous vehicles. PhD in Cognitive Robotics from TU Delft. 10+ years at the intersection of autonomous driving, motion planning, and large-scale ML. # add description
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github: bbrito # add your Github handle
-social-linkedin: https://www.linkedin.com/in/bruno-brito-1b815338/
-social-email: bruno.debrito@tudelft.nl
+social-linkedin: bruno-debrito
+social-email: brunoffbrito0@gmail.com
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
@@ -36,4 +35,4 @@ plugins:
 paginate: 8
 paginate_path: "/page/:num"
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude: ["node_modules", "vendor", "gulpfile.js", "package.json", "yarn.lock"]
