@@ -3,7 +3,7 @@ layout: post
 title: Education & Awards
 date: 2019-12-02 00:00:00 +0300
 description: Academic background, certifications, and recognitions.
-img: home-page.jpg # Add image post (optional)
+img: education.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Education, Awards] # add tag
 ---
